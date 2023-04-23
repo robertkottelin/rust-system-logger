@@ -1,0 +1,14 @@
+Error found: Apr 23 11:12:32 laptop kernel: [   31.581914] usb 1-9: device descriptor read/64, error -71
+Error found: Apr 23 11:12:33 laptop kernel: [   31.821846] usb 1-9: device descriptor read/64, error -71
+Error found: Apr 23 11:12:33 laptop kernel: [   32.186264] usb 1-9: device descriptor read/64, error -71
+Error found: Apr 23 11:12:33 laptop kernel: [   32.421524] usb 1-9: device descriptor read/64, error -71
+Error found: Apr 23 11:12:34 laptop kernel: [   33.358272] usb 1-9: device not accepting address 13, error -71
+Error found: Apr 23 11:12:35 laptop kernel: [   33.902019] usb 1-9: device not accepting address 14, error -71
+Error found: Apr 23 11:20:25 laptop gnome-shell[1278]: libinput error: event8  - ASUSTeK ROG FALCHION: client bug: event p
+rocessing lagging behind by 38ms, your system is too slow
+Error found: Apr 23 11:34:15 laptop gnome-shell[1278]: libinput error: event8  - ASUSTeK ROG FALCHION: client bug: event p
+rocessing lagging behind by 35ms, your system is too slow
+Error found: Apr 23 11:34:55 laptop ubuntu-appindicators@ubuntu.com[1278]: Impossible to send about-to-show to menu: Gio.D
+BusError: GDBus.Error:org.freedesktop.DBus.Error.Failed: error occurred in AboutToShow
+Error found: Apr 23 11:36:55 laptop gnome-shell[1278]: libinput error: event8  - ASUSTeK ROG FALCHION: client bug: event p
+rocessing lagging behind by 28ms, your system is too slow
